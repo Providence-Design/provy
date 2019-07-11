@@ -1,4 +1,4 @@
 #!/usr/bin/python
 def say(what):
-print(what)
+    print(what)
  
